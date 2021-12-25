@@ -132,6 +132,9 @@
                 max-width:100%; 
                 height:auto;
             }
+            .main-footer{
+                background:linear-gradient(-20deg,#94503f,#c75408);
+            }
             @media (max-width:600px) {
                 #sidebar {
                     margin-left: -100px;
