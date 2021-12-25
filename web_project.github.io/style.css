@@ -7,7 +7,7 @@
             
             #sidebar {
                 width: 250px;
-                height: 600vh;
+                height: 650vh;
                 background-image:url("https://i.pinimg.com/1200x/be/b0/02/beb00285df586d9468ea205cdc9fb9ae.jpg");
                 transition: 1s;
  
@@ -21,7 +21,7 @@
                 background-image:url("https://images-my.girlstyle.com/wp-content/uploads/2020/03/a0c1679ed961aadf02656313e4e72b4c.jpg");
                 background-size:contain;
                 width: 100%;
-                height: 600vh;
+                height: 650vh;
                 text-align: center;
                 padding: 30px;
                 background-attachment:scroll;
